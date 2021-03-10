@@ -5,5 +5,5 @@
   </img>
   </p>
 <p align=right>
-  **Apikey Lanz Tech**
+  *Apikey Lanz Tech
   </p>
