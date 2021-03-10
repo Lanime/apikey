@@ -5,6 +5,7 @@
   </img>
   </p>
   
-------------------
-| Apikey | Lanz  |
-------------------
+**Membuat apikey**
+----
+
+``> input f-base tools b lanztech ``
