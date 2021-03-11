@@ -11,8 +11,8 @@
 
 ***Info :***
 
-[***DONASI***](trakteer.id/lanz)
+[***DONASI***](https://trakteer.id/lanz)
 
-[***FACEBOOK***](facebook.com/vian.lanz)
+[***FACEBOOK***](https://facebook.com/vian.lanz)
 
-[***WEBSITE***](lanz.tech)
+[***WEBSITE***](https://lanz.tech)
