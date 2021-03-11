@@ -9,8 +9,8 @@
 -----
 **LANZ**
 
-*[***DONASI***](trakteer.id/lanz)
+Donasi di : [***DONASI***](trakteer.id/lanz)
 
-*[***FACEBOOK***](facebook.com/vian.lanz)
+Facebook kami : [***FACEBOOK***](facebook.com/vian.lanz)
 
-*[***WEBSITE***](lanz.tech)
+Kunjungi Web kami : [***WEBSITE***](lanz.tech)
