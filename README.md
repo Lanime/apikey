@@ -7,10 +7,12 @@
   
 *GITHUB*
 -----
-**LANZ**
+**- LANZ**
 
-  Donasi di : [***DONASI***](trakteer.id/lanz)
+***Info :***
 
-Facebook kami : [***FACEBOOK***](facebook.com/vian.lanz)
+[***DONASI***](trakteer.id/lanz)
 
-Kunjungi Web kami : [***WEBSITE***](lanz.tech)
+[***FACEBOOK***](facebook.com/vian.lanz)
+
+[***WEBSITE***](lanz.tech)
