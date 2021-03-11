@@ -5,7 +5,8 @@
   </img>
   </p>
   
-**Membuat apikey**
-----
-
-``> input f-base tools b lanztech ``
+*GITHUB*
+**LANZ**
+[***DONASI***](trakteer.id/lanz)
+[***FACEBOOK***](facebook.com/vian.lanz)
+[***WEBSITE***](lanz.tech)
