@@ -6,7 +6,11 @@
   </p>
   
 *GITHUB*
+-----
 **LANZ**
-[***DONASI***](trakteer.id/lanz)
-[***FACEBOOK***](facebook.com/vian.lanz)
-[***WEBSITE***](lanz.tech)
+
+*[***DONASI***](trakteer.id/lanz)
+
+*[***FACEBOOK***](facebook.com/vian.lanz)
+
+*[***WEBSITE***](lanz.tech)
